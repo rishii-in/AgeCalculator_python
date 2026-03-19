@@ -25,4 +25,4 @@ It takes the user's birth date as input and calculates the **exact age in years,
 
 ## 💻 How to Run
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/rishii-in/AgeCalculator_python.git
