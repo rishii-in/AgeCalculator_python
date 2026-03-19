@@ -23,7 +23,7 @@ print("")
 print(f"NAME : {name}")
 print(f"AGE : {years} years {months} months {days} days ")
 print("")
-if years<18:
+if years>18:
     print("Your are Minor 😊")
 else:
     print("Your Adult 😜")
